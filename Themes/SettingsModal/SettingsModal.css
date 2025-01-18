@@ -37,8 +37,8 @@
 
 #app-mount .layer_d4b6c5 ~ .layer_d4b6c5 {
 	position: absolute !important;
-	top: 0 !important;
-	right: 0 !important;
+	top: 20 !important;
+	right: 20 !important;
 	bottom: 0 !important;
 	left: 0 !important;
 	background: var(--settingsbackground_v) !important;
